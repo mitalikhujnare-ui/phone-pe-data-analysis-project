@@ -1,1 +1,15 @@
+# PhonePe Pulse Data Visualization Project Report
 
+## Source information
+- Report file: `phonepe-pulse-data-visualization-project-report.pdf`
+- PDF format: PDF-1.4
+- Producer: ReportLab PDF Library (opensource)
+- Pages: 4
+- Creation date: 2026-11-25 07:21:08 UTC
+- Repository: `mitalikhujnare-ui/phone-pe-data-analysis-project`
+- Repository language composition: Python (100%)
+
+## Attached report metadata
+- This report is a 4-page PDF generated with ReportLab.
+- The repository's primary analysis implementation is in `phonepe_analysis.py`.
+- The report should be used alongside the aggregated PhonePe Pulse transaction data and the project analysis script.
